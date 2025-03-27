@@ -9,35 +9,12 @@ iframe {
   width: 100%;
   
 }
-.main{
-  display:inline-block ;
-  height: 70%
-}
-
-
-.content {
-  width: 100%;
-  height: 100%;
-  justify-content: center ;
-  display: inline-block;
-  background-color: 
-}
 
 header {
 
   color: black;
   text-align: center;
   padding: 10px;
-}
-
-footer {
-  background-color: grey;
-  color: black;
-  text-align: center;
-  padding: 5px;
-  position: fixed;
-  width: 100%;
-  bottom: 0;
 }
 
 center {
@@ -72,21 +49,14 @@ textarea {
   height: 150px;
 }
 
-button {
-  background-color: #4CAF50;
-  color: #000000;
-  padding: 10px 20px;
-  border-radius: 20px;
-  border: none;
-  cursor: pointer;
-}
-
 .trinhdon {
   display: flex;
   background-color: grey;
-
-  padding: 10px
-
+  padding: 10px;
+  
+}
+.content{
+  height: 100%;
 }
 .hello {
   padding: 5px 10px; 
@@ -97,7 +67,8 @@ button {
 .hello:hover{
   background-color: #d2042d;
 }
-chinh{
-  height: 100%; 
-  width: 100%;
+.chinh{
+  height: 550px;
+  display: 20% 70%
+  
 }
